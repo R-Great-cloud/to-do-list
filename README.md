@@ -1,6 +1,6 @@
 # Bash To-Do List Manager
 
-A simple **command-line To-Do List Manager** written in **Bash**.
+A simple *command-line To-Do List Manager* written in *Bash*.
 This script allows users to add, view, delete, and mark tasks as completed, with tasks saved persistently to a file.
 
 ---
@@ -17,7 +17,7 @@ This script allows users to add, view, delete, and mark tasks as completed, with
 
 ---
 
-## 🛠️equirements
+## Requirements
 
 - Linux or macOS
 - Bash 
