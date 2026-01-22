@@ -1,0 +1,10 @@
+User
+ │
+ ▼
+Terminal (CLI)
+ │
+ ▼
+Bash Script (todo.sh)
+ │
+ ▼
+tasks.txt (File Storage)
